@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/yatzy/static/css/main.d56af3a9.chunk.css",
+    "main.js": "/yatzy/static/js/main.87092fdd.chunk.js",
+    "main.js.map": "/yatzy/static/js/main.87092fdd.chunk.js.map",
+    "runtime-main.js": "/yatzy/static/js/runtime-main.5f590b7e.js",
+    "runtime-main.js.map": "/yatzy/static/js/runtime-main.5f590b7e.js.map",
+    "static/js/2.1d51cf24.chunk.js": "/yatzy/static/js/2.1d51cf24.chunk.js",
+    "static/js/2.1d51cf24.chunk.js.map": "/yatzy/static/js/2.1d51cf24.chunk.js.map",
+    "index.html": "/yatzy/index.html",
+    "precache-manifest.d8d0aedd5422f0088aa6b88be7d0d938.js": "/yatzy/precache-manifest.d8d0aedd5422f0088aa6b88be7d0d938.js",
+    "service-worker.js": "/yatzy/service-worker.js",
+    "static/css/main.d56af3a9.chunk.css.map": "/yatzy/static/css/main.d56af3a9.chunk.css.map",
+    "static/js/2.1d51cf24.chunk.js.LICENSE.txt": "/yatzy/static/js/2.1d51cf24.chunk.js.LICENSE.txt",
+    "static/media/dice-3.png": "/yatzy/static/media/dice-3.f5a1d338.png",
+    "static/media/dice-4.png": "/yatzy/static/media/dice-4.f96884a8.png",
+    "static/media/dice-5.png": "/yatzy/static/media/dice-5.a163882a.png",
+    "static/media/dice-6.png": "/yatzy/static/media/dice-6.4fbe0c19.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f590b7e.js",
+    "static/js/2.1d51cf24.chunk.js",
+    "static/css/main.d56af3a9.chunk.css",
+    "static/js/main.87092fdd.chunk.js"
+  ]
+}
